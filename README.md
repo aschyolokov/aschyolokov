@@ -1,7 +1,7 @@
 Hi!
-My name is Alexander Schyolokov. I'm a HTML Developer (or HTMLcoder or UI Developer, or Layout Designer - as you wish 😊) and Junior Frontend Developer.
+My name is Alexander Schyolokov. I'm a Frontend Developer.
 
-I’m interested in Interface Layout, JavaScript, a little Flutter.
+I’m interested in JavaScript/TypeScript, React.
 
 <!---
 aschyolokov/aschyolokov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
